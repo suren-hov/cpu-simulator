@@ -44,6 +44,6 @@ To compile the project, use the following command:
 
 ```sh
 gcc -o cpu_simulator main.c basic.c assembly.c
-
+```
 
 Feel free to adjust the content to better suit your needs or to include additional details about your project.
